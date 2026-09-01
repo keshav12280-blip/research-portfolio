@@ -18,7 +18,7 @@ Educational Media**
 IEEE DSAA 2026 — Accepted
 
 [Paper PDF](papers/AMPKG_DSAA_2026.pdf) |
-[Code](YOUR_GITHUB_LINK) |
+[Code](https://github.com/keshav12280-blip/Knowledge-Graph) |
 [Conference](https://dsaa-2026.vercel.app/accepted-papers)
 
 ---
