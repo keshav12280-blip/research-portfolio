@@ -19,7 +19,7 @@ IEEE DSAA 2026 — Accepted
 
 [Paper PDF](papers/AMPKG_DSAA_2026.pdf) |
 [Code](YOUR_GITHUB_LINK) |
-[Conference](OFFICIAL_CONFERENCE_LINK)
+[Conference](https://dsaa-2026.vercel.app/accepted-papers)
 
 ---
 
@@ -38,7 +38,7 @@ IWIS 2026 — Accepted
 KDD 2026 GMLLM Workshop — Accepted Poster
 
 [Paper PDF](papers/CMERGE_KDD_2026.pdf) |
-[Conference](OFFICIAL_CONFERENCE_LINK)
+[Conference](https://magic-group-buaa.github.io/KDD2026_workshop/pages/talk.html)
 
 ---
 
@@ -48,7 +48,7 @@ Shift in Financial Markets**
 KDD 2026 RelSciFM Workshop — Accepted Poster
 
 [Paper PDF](papers/Temporal_Causal_Graph_KDD_2026.pdf) |
-[Conference](OFFICIAL_CONFERENCE_LINK)
+[Conference](https://kdd26-relscifm.github.io/#accepted-papers)
 
 ---
 
